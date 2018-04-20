@@ -16,7 +16,7 @@ import (
 	"github.com/pmorie/osb-broker-lib/pkg/metrics"
 	"github.com/pmorie/osb-broker-lib/pkg/rest"
 	"github.com/pmorie/osb-broker-lib/pkg/server"
-	"github.com/jaymccon/awssb/pkg/broker"
+	"github.com/jaymccon/cfnsb/pkg/broker"
 )
 
 var options struct {

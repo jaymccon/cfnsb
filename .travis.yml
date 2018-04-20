@@ -1,5 +1,5 @@
 language: go
-go_import_path: github.com/jaymccon/awssb
+go_import_path: github.com/jaymccon/cfnsb
 go:
   - 1.8.x
 script: "make build test"                                

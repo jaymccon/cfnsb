@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"github.com/golang/glog"
-	"github.com/pmorie/osb-broker-lib/pkg/broker"
+	"github.com/jaymccon/cfnsb/pkg/broker"
 
 	osb "github.com/pmorie/go-open-service-broker-client/v2"
 	"reflect"

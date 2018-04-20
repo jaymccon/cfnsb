@@ -39,19 +39,19 @@ deploy and begin iterating on.
 ### Get the project
 
 ```console
-$ go get github.com/jaymccon/awssb/cmd/servicebroker
+$ go get github.com/jaymccon/cfnsb/cmd/servicebroker
 ```
 
 Or clone the repo:
 
 ```console
-$ cd $GOPATH/src && mkdir -p github.com/pmorie && cd github.com/pmorie && git clone git://github.com/jaymccon/awssb
+$ cd $GOPATH/src && mkdir -p github.com/pmorie && cd github.com/pmorie && git clone git://github.com/jaymccon/cfnsb
 ```
 
 Change into the project directory:
 
 ```console
-$ cd $GOPATH/src/github.com/jaymccon/awssb
+$ cd $GOPATH/src/github.com/jaymccon/cfnsb
 ```
 
 ### Deploy broker using Helm
