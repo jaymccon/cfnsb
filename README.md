@@ -45,7 +45,7 @@ $ go get github.com/jaymccon/cfnsb/cmd/servicebroker
 Or clone the repo:
 
 ```console
-$ cd $GOPATH/src && mkdir -p github.com/pmorie && cd github.com/pmorie && git clone git://github.com/jaymccon/cfnsb
+$ cd $GOPATH/src && mkdir -p github.com/jaymccon && cd github.com/jaymccon && git clone git://github.com/jaymccon/cfnsb
 ```
 
 Change into the project directory:
